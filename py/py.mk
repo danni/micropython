@@ -210,8 +210,6 @@ PY_O_BASENAME = \
 	../extmod/machine_i2c.o \
 	../extmod/modussl_axtls.o \
 	../extmod/modurandom.o \
-	../extmod/modwebsocket.o \
-	../extmod/modwebrepl.o \
 	../extmod/modframebuf.o \
 	../extmod/fsusermount.o \
 	../extmod/vfs_fat.o \
